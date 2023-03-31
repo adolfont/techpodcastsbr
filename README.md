@@ -1,4 +1,4 @@
-# TechPodcastsBr - Listagem de podcasts ativos de tecnologia
+# TechPodcastsBr - Listagem de podcasts brasileiros ativos de tecnologia
 
 
 ## Qual é a minha definição de podcast ativo?
@@ -9,3 +9,12 @@
 ## Qual é a minha definição de podcast de tecnologia?
 
 Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊. 
+
+# Podcasts Brasileiros Ativos de Tecnologia
+
+
+| Nome | Site | RSS |
+|------|------|-----|
+| Lambda 3     |   https://www.lambda3.com.br/lambda3-podcast/     |     |
+|      |      |     |
+|      |      |     |
