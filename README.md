@@ -13,8 +13,8 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 # Podcasts Brasileiros Ativos de Tecnologia
 
 
-| Nome | Site | RSS |
+| Nome | Site | Feed (RSS) |
 |------|------|-----|
-| Lambda 3     |   https://www.lambda3.com.br/lambda3-podcast/     |     |
+| Lambda 3     |   https://www.lambda3.com.br/lambda3-podcast/     |  https://www.lambda3.com.br/feed/podcast   |
 |      |      |     |
 |      |      |     |
