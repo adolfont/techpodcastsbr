@@ -33,6 +33,8 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 | Hipsters.Tech | https://www.hipsters.tech/ | https://www.hipsters.tech/feed/podcast/ |
 | Dev Sem Fronteiras | https://www.devsemfronteiras.tech/ | | 
 | Feministech | https://podcasters.spotify.com/pod/show/feministech | https://anchor.fm/s/596af3fc/podcast/rss |
+| Data Hackers | https://www.datahackers.com.br/podcast | |
+
 
 # Rankings de podcasts de tecnologia
 
