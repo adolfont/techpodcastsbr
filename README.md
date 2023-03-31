@@ -1,5 +1,9 @@
 # TechPodcastsBr - Listagem de podcasts brasileiros ativos de tecnologia
 
+![logo](/image/logo_v0.jpeg "TechPodcastsBr").
+
+
+
 
 ## Qual é a minha definição de podcast ativo?
 
