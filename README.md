@@ -10,6 +10,12 @@
 
 Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊. 
 
+## Recursos
+
+- Canal no Telegram https://t.me/techpodcastsbr
+- Grupo no WhatsApp (apenas para conhecidos)
+- Discord (desativado)
+
 # Podcasts Brasileiros Ativos de Tecnologia
 
 
