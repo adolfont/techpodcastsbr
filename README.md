@@ -31,3 +31,11 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 | Emílias Podcast - Mulheres na Computação | https://podcasters.spotify.com/pod/show/emilias-podcast | https://anchor.fm/s/10f2ba74/podcast/rss |
 | Professor Adolfo Neto | https://podcasters.spotify.com/pod/show/adolfont | https://anchor.fm/s/10f2ba74/podcast/rss |
 | Hipsters.Tech | https://www.hipsters.tech/ | https://www.hipsters.tech/feed/podcast/ |
+| Dev Sem Fronteiras | https://www.devsemfronteiras.tech/ | | 
+| Feministech | https://podcasters.spotify.com/pod/show/feministech | https://anchor.fm/s/596af3fc/podcast/rss |
+
+# Rankings de podcasts de tecnologia
+
+- [Apple Podcasts — Brazil — Technology](https://chartable.com/charts/itunes/br-technology-podcasts)
+- [Apple Podcasts — Brazil — Technology — Episodes](https://chartable.com/charts/itunes/br-technology-episodes)
+- [Spotify — Brazil — Technology](https://chartable.com/charts/spotify/brazil-technology)
