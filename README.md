@@ -1,6 +1,6 @@
 # TechPodcastsBr - Listagem de podcasts brasileiros ativos de tecnologia
 
-![logo](/image/logo_v0.jpeg "TechPodcastsBr").
+![logo](/images/logo_v0.jpeg "TechPodcastsBr").
 
 
 
