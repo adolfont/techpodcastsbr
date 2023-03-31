@@ -34,6 +34,9 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 | Dev Sem Fronteiras | https://www.devsemfronteiras.tech/ | | 
 | Feministech | https://podcasters.spotify.com/pod/show/feministech | https://anchor.fm/s/596af3fc/podcast/rss |
 | Data Hackers | https://www.datahackers.com.br/podcast | |
+| Pizza de Dados Podcast | https://podcast.pizzadedados.com/ | https://podcast.pizzadedados.com/feed.xml |
+| QuebraDev | https://quebra.dev/ | https://anchor.fm/s/1c1d0328/podcast/rss |
+| Segurança Legal | https://www.segurancalegal.com/ | https://www.segurancalegal.com/feed/podcast/ |
 
 
 # Rankings de podcasts de tecnologia
