@@ -38,6 +38,7 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 | QuebraDev | https://quebra.dev/ | https://anchor.fm/s/1c1d0328/podcast/rss |
 | Segurança Legal | https://www.segurancalegal.com/ | https://www.segurancalegal.com/feed/podcast/ |
 | Códigos de Carreira | https://codigosdecarreira.com/ | https://anchor.fm/s/d995ddbc/podcast/rss |
+| Olá, Gabs! | https://podcasters.spotify.com/pod/show/gabsferreira | https://anchor.fm/s/327b16f0/podcast/rss |
 
 
 # Rankings de podcasts de tecnologia
