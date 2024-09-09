@@ -2,8 +2,11 @@
 
 Curador: [Adolfo Neto - UTFPR - https://adolfont.github.io/](https://adolfont.github.io/)
 
-## Lista não editada ou validada de podcasts 
+## Lista não editada ou validada de podcasts
 
+Inclua aqui se quiser contribuir fazendo um PR 
+
+- PodCast: Memórias e Histórias em comemoração aos 55 anos da Computação na Unicamp https://www.youtube.com/playlist?list=PLdyIeAAaboLufVaYiT70s2oqxawrqjlAO
 
 ## Qual é a minha definição de podcast ativo?
 
