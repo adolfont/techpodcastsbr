@@ -38,6 +38,7 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 | Tecnocracia                              | https://manualdousuario.net/series/tecnocracia/         | https://manualdousuario.net/feed/podcast/tecnocracia/     |
 | freeCodeCamp Podcast em português        | https://www.freecodecamp.org/portuguese/news/freecodecamp-podcast-em-portugues/        | https://feeds.transistor.fm/freecodecamp-podcast-em-portugues     |
 | Entre chaves                             | https://www.dtidigital.com.br/entrechaves               | https://open.spotify.com/show/1ub9YZKamdMKdKbLia4YrX?si=e763c29197984ea7 |
+| Escovando Bits                           | https://codecon.dev/podcast                             | https://anchor.fm/s/f0dc6c5c/podcast/rss |
 
 # Rankings de podcasts de tecnologia
 
