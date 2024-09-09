@@ -17,27 +17,25 @@ Inclua aqui se quiser contribuir fazendo um PR
 
 Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊. 
 
-
 # Podcasts Brasileiros Ativos de Tecnologia
 
-
-| Nome | Site | Feed (RSS) |
-|------|------|-----|
-| Lambda 3 |   https://www.lambda3.com.br/lambda3-podcast/     |  https://www.lambda3.com.br/feed/podcast   |
-| Fronteiras da Engenharia de Software | https://fronteirases.github.io/ | https://anchor.fm/s/248c0568/podcast/rss |
-| Elixir em Foco | https://www.elixiremfoco.com/ | https://anchor.fm/s/4d4944e8/podcast/rss |
-| Emílias Podcast - Mulheres na Computação | https://podcasters.spotify.com/pod/show/emilias-podcast | https://anchor.fm/s/10f2ba74/podcast/rss |
-| Professor Adolfo Neto | https://podcasters.spotify.com/pod/show/adolfont | https://anchor.fm/s/10f2ba74/podcast/rss |
-| Hipsters.Tech | https://www.hipsters.tech/ | https://www.hipsters.tech/feed/podcast/ |
-| Dev Sem Fronteiras | https://www.devsemfronteiras.tech/ | | 
-| Feministech | https://podcasters.spotify.com/pod/show/feministech | https://anchor.fm/s/596af3fc/podcast/rss |
-| Data Hackers | https://www.datahackers.com.br/podcast | |
-| Pizza de Dados Podcast | https://podcast.pizzadedados.com/ | https://podcast.pizzadedados.com/feed.xml |
-| QuebraDev | https://quebra.dev/ | https://anchor.fm/s/1c1d0328/podcast/rss |
-| Segurança Legal | https://www.segurancalegal.com/ | https://www.segurancalegal.com/feed/podcast/ |
-| Códigos de Carreira | https://codigosdecarreira.com/ | https://anchor.fm/s/d995ddbc/podcast/rss |
-| Olá, Gabs! | https://podcasters.spotify.com/pod/show/gabsferreira | https://anchor.fm/s/327b16f0/podcast/rss |
-
+| Nome                                     | Site                                                    | Feed (RSS)                                   |
+| ---------------------------------------- | ------------------------------------------------------- | -------------------------------------------- |
+| Lambda 3                                 | https://www.lambda3.com.br/lambda3-podcast/             | https://www.lambda3.com.br/feed/podcast      |
+| Fronteiras da Engenharia de Software     | https://fronteirases.github.io/                         | https://anchor.fm/s/248c0568/podcast/rss     |
+| Elixir em Foco                           | https://www.elixiremfoco.com/                           | https://anchor.fm/s/4d4944e8/podcast/rss     |
+| Emílias Podcast - Mulheres na Computação | https://podcasters.spotify.com/pod/show/emilias-podcast | https://anchor.fm/s/10f2ba74/podcast/rss     |
+| Professor Adolfo Neto                    | https://podcasters.spotify.com/pod/show/adolfont        | https://anchor.fm/s/10f2ba74/podcast/rss     |
+| Hipsters.Tech                            | https://www.hipsters.tech/                              | https://www.hipsters.tech/feed/podcast/      |
+| Dev Sem Fronteiras                       | https://www.devsemfronteiras.tech/                      |                                              |
+| Feministech                              | https://podcasters.spotify.com/pod/show/feministech     | https://anchor.fm/s/596af3fc/podcast/rss     |
+| Data Hackers                             | https://www.datahackers.com.br/podcast                  |                                              |
+| Pizza de Dados Podcast                   | https://podcast.pizzadedados.com/                       | https://podcast.pizzadedados.com/feed.xml    |
+| QuebraDev                                | https://quebra.dev/                                     | https://anchor.fm/s/1c1d0328/podcast/rss     |
+| Segurança Legal                          | https://www.segurancalegal.com/                         | https://www.segurancalegal.com/feed/podcast/ |
+| Códigos de Carreira                      | https://codigosdecarreira.com/                          | https://anchor.fm/s/d995ddbc/podcast/rss     |
+| Olá, Gabs!                               | https://podcasters.spotify.com/pod/show/gabsferreira    | https://anchor.fm/s/327b16f0/podcast/rss     |
+| Tecnocracia                              | https://manualdousuario.net/series/tecnocracia/         | https://manualdousuario.net/feed/podcast/tecnocracia/     |
 
 # Rankings de podcasts de tecnologia
 
