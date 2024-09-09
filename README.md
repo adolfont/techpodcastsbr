@@ -36,6 +36,7 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 | Códigos de Carreira                      | https://codigosdecarreira.com/                          | https://anchor.fm/s/d995ddbc/podcast/rss     |
 | Olá, Gabs!                               | https://podcasters.spotify.com/pod/show/gabsferreira    | https://anchor.fm/s/327b16f0/podcast/rss     |
 | Tecnocracia                              | https://manualdousuario.net/series/tecnocracia/         | https://manualdousuario.net/feed/podcast/tecnocracia/     |
+| freeCodeCamp Podcast em português        | https://www.freecodecamp.org/portuguese/news/freecodecamp-podcast-em-portugues/        | https://feeds.transistor.fm/freecodecamp-podcast-em-portugues     |
 
 # Rankings de podcasts de tecnologia
 
