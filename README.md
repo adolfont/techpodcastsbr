@@ -34,6 +34,7 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 - freeCodeCamp Podcast em português https://www.freecodecamp.org/portuguese/news/freecodecamp-podcast-em-portugues/ https://feeds.transistor.fm/freecodecamp-podcast-em-portugues
 - Hipsters.Tech https://www.hipsters.tech/ https://www.hipsters.tech/feed/podcast/
 - Lambda 3 https://www.lambda3.com.br/lambda3-podcast/ https://www.lambda3.com.br/feed/podcast
+- Memórias e Histórias em comemoração aos 55 anos da Computação na Unicamp https://www.youtube.com/playlist?list=PLdyIeAAaboLufVaYiT70s2oqxawrqjlAO
 - Olá, Gabs! https://podcasters.spotify.com/pod/show/gabsferreira https://anchor.fm/s/327b16f0/podcast/rss
 - Pizza de Dados Podcast https://podcast.pizzadedados.com/ https://podcast.pizzadedados.com/feed.xml
 - Professor Adolfo Neto https://podcasters.spotify.com/pod/show/adolfont https://anchor.fm/s/10f2ba74/podcast/rss
