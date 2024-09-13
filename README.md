@@ -1,8 +1,6 @@
 # TechPodcastsBr - Listagem de podcasts brasileiros ativos de tecnologia
 
-Podcasts Brasileiros Ativos de Tecnologia
-
-- Nome Site "Feed (RSS) ou link para escutar"
+Inclua Nome Site e Feed (RSS) ou link para escutar
 
 - Cafezinho, Victor Osório https://youtube.com/playlist?list=PLnenY3wke2pd3GxmRwVfqDX6Nsn5-NneK&si=bflVScI7A7p6_iIB
 - Códigos de Carreira https://codigosdecarreira.com/ https://anchor.fm/s/d995ddbc/podcast/rss
