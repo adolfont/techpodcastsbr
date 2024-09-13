@@ -2,11 +2,7 @@
 
 Curador: [Adolfo Neto - UTFPR - https://adolfont.github.io/](https://adolfont.github.io/)
 
-## Lista não editada ou validada de podcasts
 
-Inclua aqui se quiser contribuir fazendo um PR 
-
-- PodCast: Memórias e Histórias em comemoração aos 55 anos da Computação na Unicamp https://www.youtube.com/playlist?list=PLdyIeAAaboLufVaYiT70s2oqxawrqjlAO
 
 ## Qual é a minha definição de podcast ativo?
 
@@ -21,7 +17,7 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 
 - Nome Site "Feed (RSS) ou link para escutar"
 
-
+- Cafezinho, Victor Osório https://youtube.com/playlist?list=PLnenY3wke2pd3GxmRwVfqDX6Nsn5-NneK&si=bflVScI7A7p6_iIB
 - Códigos de Carreira https://codigosdecarreira.com/ https://anchor.fm/s/d995ddbc/podcast/rss
 - Data Hackers https://www.datahackers.com.br/podcast 
 - Dev Sem Fronteiras https://www.devsemfronteiras.tech/ 
