@@ -1,19 +1,6 @@
 # TechPodcastsBr - Listagem de podcasts brasileiros ativos de tecnologia
 
-Curador: [Adolfo Neto - UTFPR - https://adolfont.github.io/](https://adolfont.github.io/)
-
-
-
-## Qual é a minha definição de podcast ativo?
-
-1. Publicou ao menos um episódio nos últimos 90 dias (se não tiver temporadas). OU
-2. Funciona por temporada e publicou o último episódio da temporada nos últimos 180 dias.
-
-## Qual é a minha definição de podcast de tecnologia?
-
-Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊. 
-
-# Podcasts Brasileiros Ativos de Tecnologia
+Podcasts Brasileiros Ativos de Tecnologia
 
 - Nome Site "Feed (RSS) ou link para escutar"
 
@@ -40,8 +27,20 @@ Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊.
 - Tecnocracia https://manualdousuario.net/series/tecnocracia/ https://manualdousuario.net/feed/podcast/tecnocracia/
 - Tecnopolitica https://tecnopolitica.blog.br/
 
+Curador: [Adolfo Neto - UTFPR - https://adolfont.github.io/](https://adolfont.github.io/)
 
-# Rankings de podcasts de tecnologia
+
+
+## Qual é a minha definição de podcast ativo?
+
+1. Publicou ao menos um episódio nos últimos 90 dias (se não tiver temporadas). OU
+2. Funciona por temporada e publicou o último episódio da temporada nos últimos 180 dias.
+
+## Qual é a minha definição de podcast de tecnologia?
+
+Ainda não sei expressar claramente. Mas eu sei o que é quando eu escuto 😊. 
+
+## Rankings de podcasts de tecnologia
 
 - [Apple Podcasts — Brazil — Technology](https://chartable.com/charts/itunes/br-technology-podcasts)
 - [Apple Podcasts — Brazil — Technology — Episodes](https://chartable.com/charts/itunes/br-technology-episodes)
