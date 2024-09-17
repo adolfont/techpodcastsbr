@@ -24,6 +24,7 @@ Inclua Nome Site e Feed (RSS) ou link para escutar
 - Segurança Legal https://www.segurancalegal.com/ https://www.segurancalegal.com/feed/podcast/
 - Tecnocracia https://manualdousuario.net/series/tecnocracia/ https://manualdousuario.net/feed/podcast/tecnocracia/
 - Tecnopolitica https://tecnopolitica.blog.br/
+- Universo Ágil https://open.spotify.com/show/679qKdUauQbdB5KiMFsURl
 
 Curador: [Adolfo Neto - UTFPR - https://adolfont.github.io/](https://adolfont.github.io/)
 
