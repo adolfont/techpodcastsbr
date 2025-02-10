@@ -30,7 +30,14 @@ Outros nomes: solocast.
 
 Quando uma pessoa fala sozinha sobre um ou mais temas.
 
-Um podcast que teve alguns episódios neste estilo foi o do Gabs Ferreira:[Olá, Gabs!](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl).
+Um podcast que teve alguns episódios neste estilo foi o do Gabs Ferreira: [Olá, Gabs!](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl).
+
+- **Narrativo**
+
+- Outros nomes: Storytelling.
+
+Este é um formato muito difícil de produzir. [Olá, Gabs!](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl) fez alguns episódios em formato narrativo (exemplo: [O Jantar Polonês](https://www.youtube.com/watch?v=wwXvIjyULlg)), mas não lembro se eram sobre tecnologia.
+
 
 
 ## Padrões
