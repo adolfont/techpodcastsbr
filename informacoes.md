@@ -29,6 +29,8 @@ Exemplo: [Área de Transferência](https://gigahertz.fm/podcasts/adt).
 Quando duas pessoas se reúnem para conversar sobre um ou mais temas.
 Exemplo: [Área de Trabalho](https://gigahertz.fm/podcasts/adtrabalho).
 
+Acredito que podcasts como [IA Sob Controle](https://www.iasobcontrole.tech/) estão nesta categoria também. São quase sempre as mesmas duas pessoas nos episódios de sexta.
+
 - **Monólogo**
 
 Outro nome: solocast.
@@ -56,4 +58,4 @@ Este é um formato muito difícil de produzir. [Olá, Gabs!](https://open.spotif
 
 ## Dúvidas 
 
-Podcasts como [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) ou [Tecnopolítica](https://tecnopolitica.blog.br/) são podcasts de tecnologia?
+Podcasts como [Área de Trabalho](https://gigahertz.fm/podcasts/adtrabalho), [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) ou [Tecnopolítica](https://tecnopolitica.blog.br/) são podcasts de tecnologia?
