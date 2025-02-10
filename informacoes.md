@@ -1,6 +1,6 @@
 # Informações sobre podcasts brasileiros de tecnologia
 
-_Trabalho em construção. Crie uma issue caso queira contribuir._
+_Trabalho em construção. Crie uma [issue](https://github.com/adolfont/techpodcastsbr/issues) caso queira contribuir._
 
 
 ## Formatos
