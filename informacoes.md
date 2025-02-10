@@ -48,3 +48,7 @@ Este é um formato muito difícil de produzir. [Olá, Gabs!](https://open.spotif
 ## Antipadrões
 
 [Republicação sem aviso, com número novo e título novo](https://bsky.app/profile/adolfont.github.io/post/3lhts6huhp22g)
+
+## Dúvidas 
+
+Podcasts como [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) ou [Tecnopolítica](https://tecnopolitica.blog.br/) são podcasts de tecnologia?
