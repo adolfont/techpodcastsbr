@@ -67,3 +67,8 @@ Gravação de uma palestra, que inclui recursos visuais. Exemplo: [palestras do 
 ## Dúvidas 
 
 Podcasts como [Área de Trabalho](https://gigahertz.fm/podcasts/adtrabalho), [Tecnocracia](https://manualdousuario.net/series/tecnocracia/) ou [Tecnopolítica](https://tecnopolitica.blog.br/) são podcasts de tecnologia?
+
+
+## Links
+
+- [conversa com Perplexity AI](https://www.perplexity.ai/search/voce-tem-algo-a-acrescentar-ne-tmUvzKGERGiDYmiJDMMZTg)
