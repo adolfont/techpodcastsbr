@@ -12,6 +12,11 @@ Uma ou mais pessoas entrevistando uma ou mais pessoas.
 Acredito que a maioria dos podcasts segue este formato.
 Exemplo de podcast com vários episódios neste formato: <http://Hipsters.Tech>.
 
+Subformatos:
+
+- Entrevistas técnicas (ex: [PODebug](https://podebug.com/))
+- Entrevistas com foco em carreira (ex: [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/))
+
 - **Painel**
 
 Outros nomes: mesa redonda, mesa cast, bate papo.
