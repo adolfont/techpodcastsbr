@@ -5,7 +5,7 @@ _Trabalho em construção. Crie uma issue caso queira contribuir._
 
 ## Formatos
 
-Um podcast pode 
+Um podcast pode ter episódios de diferentes formatos e ter diferentes formatos num mesmo episódio.
 
 - **Entrevista**
 
@@ -15,9 +15,8 @@ Acredito que a maioria dos podcasts segue este formato.
 Exemplo de podcast com vários episódios neste formato: <http://Hipsters.Tech>.
 
 Subformatos:
-
-- Entrevistas técnicas (ex: [PODebug](https://podebug.com/))
-- Entrevistas com foco em carreira (ex: [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/))
+  - Entrevistas técnicas (ex: [PODebug](https://podebug.com/))
+  - Entrevistas com foco em carreira (ex: [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/))
 
 - **Painel**
 
