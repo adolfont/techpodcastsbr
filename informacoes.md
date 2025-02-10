@@ -60,7 +60,9 @@ Gravação de uma palestra, que inclui recursos visuais. Exemplo: [palestras do 
 
 ## Antipadrões
 
-[Republicação sem aviso, com número novo e título novo](https://bsky.app/profile/adolfont.github.io/post/3lhts6huhp22g)
+- [Republicação sem aviso, com número novo e título novo](https://bsky.app/profile/adolfont.github.io/post/3lhts6huhp22g)
+- **Edição excessiva**: cortes abruptos que quebram contexto (ex: primeiras temporadas do [Grok Podcast](https://grokpodcast.com/))
+- **Desbalanceamento temático**: episódios que se desviam completamente do tema central sem aviso
 
 ## Dúvidas 
 
