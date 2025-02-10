@@ -5,6 +5,8 @@ _Trabalho em construção. Crie uma issue caso queira contribuir._
 
 ## Formatos
 
+Um podcast pode 
+
 - **Entrevista**
 
 
@@ -44,6 +46,11 @@ Um podcast que teve alguns episódios neste estilo foi o do Gabs Ferreira: [Olá
 Outros nomes: Storytelling, contação de histórias.
 
 Este é um formato muito difícil de produzir. [Olá, Gabs!](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl) fez alguns episódios em formato narrativo (exemplo: [O Jantar Polonês](https://www.youtube.com/watch?v=wwXvIjyULlg)), mas não lembro se eram sobre tecnologia.
+
+
+- **Palestras**
+
+Gravação de uma palestra, que inclui recursos visuais. Exemplo: [palestras do Fronteiras da Engenharia de Software](https://open.spotify.com/episode/1ha2FZptgX4o3O7WibgoCJ).
 
 
 
