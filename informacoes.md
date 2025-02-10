@@ -31,3 +31,10 @@ Outros nomes: solocast.
 Quando uma pessoa fala sozinha sobre um ou mais temas.
 
 Um podcast que teve alguns episódios neste estilo foi o do Gabs Ferreira:[Olá, Gabs!](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl).
+
+
+## Padrões
+
+## Antipadrões
+
+[Republicação sem aviso, com número novo e título novo](https://bsky.app/profile/adolfont.github.io/post/3lhts6huhp22g)
